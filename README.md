@@ -2,6 +2,12 @@
 
 A comprehensive hospital management system built with Python, SQLite, and Streamlit, featuring AI-powered medical insights using Google's Generative AI.
 
+## 🎥 Demo Video
+
+[![Hospital Management System Demo](https://img.youtube.com/vi/tUMORdAE2vE/maxresdefault.jpg)](https://www.youtube.com/watch?v=tUMORdAE2vE)
+
+Click above to watch the full demonstration!
+
 ## 📋 Overview
 
 This project implements a full-featured hospital management system that handles patient records, appointments, treatments, medical staff, room assignments, and more. The system includes an intelligent chatbot for medical queries and comprehensive reporting capabilities.
